@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(img/houses.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: oblique;
+}
+
+h1 {
+    font-family: oblique;
+    font-style: oblique;
+    color:rgb(68, 60, 77);
+    font-size: 10mm;
+    display: flex;
+    justify-content: center;
+   
+}
